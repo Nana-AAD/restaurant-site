@@ -47,10 +47,10 @@ function createContactInfo() {
     contactInfoDiv.innerHTML = `
         <h3>Visit Us</h3>
         <p>123 Main Street</p>
-        <p>City, State, ZIP</p>
+        <p>Accra, Greater-Accra, 000</p>
         <h3>Contact Information</h3>
-        <p>Phone: (123) 456-7890</p>
-        <p>Email: info@bearysbreakfast.com</p>
+        <p>Phone: (+233) 5578900998</p>
+        <p>Email: info@shogun.com</p>
     `;
     return contactInfoDiv;
 }

@@ -21,7 +21,7 @@ function createHero() {
     const heroText = document.createElement('div');
     heroText.classList.add('hero-text');
     heroText.innerHTML = `
-        <h1>Welcome to Antwi's Bar</h1>
+        <h1>Welcome to  Shogun</h1>
         <p>Start your day with our buds blazing options!</p>
     `;
     
